@@ -1,3 +1,4 @@
+# As described in intro papers
 import matplotlib.pyplot as plotter
 import numpy
 

@@ -1,3 +1,4 @@
+# As described in intro papers
 import math
 import numpy
 
